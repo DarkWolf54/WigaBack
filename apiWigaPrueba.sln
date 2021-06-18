@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiWigaPrueba", "apiWigaPrueba\apiWigaPrueba.csproj", "{78894A6D-FECF-4BA9-BC3D-CD48FCC907E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78894A6D-FECF-4BA9-BC3D-CD48FCC907E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78894A6D-FECF-4BA9-BC3D-CD48FCC907E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78894A6D-FECF-4BA9-BC3D-CD48FCC907E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78894A6D-FECF-4BA9-BC3D-CD48FCC907E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD1DD074-43B3-4821-AEC4-5F1B16C60917}
+	EndGlobalSection
+EndGlobal
